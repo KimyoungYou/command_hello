@@ -1,5 +1,7 @@
 //For command line git tutorial
-//Loal repository modification
+//First : GitHub modification
+//Second : Loal repository modification
+
 
 print("hello world")
 print("Tell You Word")
